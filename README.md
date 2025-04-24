@@ -12,5 +12,7 @@ D. Then each one will clone the repo of one of their exercise partners, fix the 
 
 E. Everybody then merges their co-worker’s change
 
+
 Below is an overview of this exercise:
+
 ![image](https://github.com/user-attachments/assets/08648394-64de-4c8a-9d19-d7b652208ed8)
